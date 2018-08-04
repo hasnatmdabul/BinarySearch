@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533308908 source:/afs/tu-chemnitz.de/home/urz/h/hmd/Dokumente/LearningCPP/SearchTheNumber/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
